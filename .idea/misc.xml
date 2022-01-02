@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/drawable/border.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_arts.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_arts_q1.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_arts_q2.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_arts_q3.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_arts_q4.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_histoire_q1.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_histoire_q2.xml" value="0.2359375" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_histoire_q3.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_histoire_q4.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_histoire_q5.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_informatique_q1.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_informatique_q2.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_informatique_q3.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_informatique_q4.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_informatique_q5.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_score.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_sport_q1.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_sport_q2.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_sport_q3.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_sport_q4.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Documents/Rayen_ISI/3_CS/semestre_1/Dev_Mobile/projet/app/src/main/res/layout/activity_sport_q5.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
